@@ -1,6 +1,7 @@
 # Minesweeper
 Simple minesweeper made with Lua on LOVE2D
 
+
 tamanhoDoTabuleiro sets the n for our nxn board
 
 numeroDeBombas sets the number of bombs
